@@ -1,0 +1,46 @@
+/* HEADER */
+
+header{
+	text-align: center;
+	font-size: 150%
+}
+
+/* BODY */
+
+body{
+	background-image: url(images/back.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;
+}
+
+button{
+	background-color: #a328eb;
+	color: white;
+}
+
+#return{
+	width: 150px;
+	height: 75px;
+}
+
+button:hover{
+	background-color: #4a00c9;
+}
+
+#secUn{
+	font-size: 150%;
+	font-style: bold;
+}
+
+#secDeux{
+	float: right;
+}
+
+
+/* FOOTER  */
+
+footer{
+	text-align: center;
+	margin-top: 560px;
+}
